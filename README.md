@@ -8,7 +8,7 @@ My purpose was to explore github's repositories and establish a pattern for crea
 
 This is my YouTube demonstration:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Xwq3tm4BjXw)
 
 # Development Environment
 
